@@ -12,7 +12,7 @@ https://www.slideshare.net/slideshow/pydatatokyo-meetup-21-optuna/176696156
 に記載されていたソースコードをベースにを一部改変して、Optunaを使った最適化を体験してみた
 """
 
-!pip install optuna
+# !pip install optuna
 
 import optuna
 
